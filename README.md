@@ -1,2 +1,4 @@
-# accordionapp
-this is my frist repo
+# RendomColorApp
+ In this app rendom color change by button 
+ <br>
+ Author : santosh
